@@ -23,6 +23,7 @@ class _frasesState extends State<frases> {
 
   @override
   Widget build(BuildContext context) {
+    print('Hola');
     return Scaffold(
       backgroundColor: Colors.grey[200],
       appBar: AppBar(
